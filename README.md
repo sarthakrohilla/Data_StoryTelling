@@ -145,3 +145,4 @@ There has been an increase in the per capita of LA from 2013 to 2014.
 
 Insights
 This visualization provides us with a relation between different market segments in terms of their investments. It can also be taken into account that the Venture Capitalists who are investing in one or more market segments are also investing in market areas belonging to the same clusters.
+# test
